@@ -10,3 +10,5 @@
 On line 33 [Current User] and line 36 [All Users] change the timeout according to your needs (default value = 10 secs)
 
 timeout /t 10
+
+![](https://github.com/bluetoro0308/win11_Old_context_menus/blob/main/demo.gif)
